@@ -32,6 +32,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 1- Récupère le projet(clone le projet) par la suite crée ta brache pour travailler dessus
 
-2- Déjà allons sur le concret. Pour les fonctionnalités, dans la matinée tu vas travaillé sur la suppression et moi je m'occupe de l'ajout.
+2- Pour l'interface tu vas t'occuper du formulaire. Pour ça faut créer un composant...
 
-3- Pour l'interface tu vas t'occuper du formulaire. Pour ça faut créer un composant...
+3- Déjà allons sur le concret. Pour les fonctionnalités, dans la matinée tu vas travaillé sur la suppression et moi je m'occupe de l'ajout.
+
+
